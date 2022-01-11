@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # PPML-TSA
 
 This repository provides all code necessary to reproduce the results reported in our paper `Evaluating Privacy-Preserving Machine Learning in Critical Infrastructures: A Case Study on Time-Series Classification`[[IEEE](https://ieeexplore.ieee.org/document/9612016)][[arXiv](https://arxiv.org/abs/2111.14838)].
