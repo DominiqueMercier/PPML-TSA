@@ -224,6 +224,8 @@ def train(options, trainX, trainY, valX, valY, n_classes, save_path):
     torch.save(model.state_dict(), save_path)
 
 def process(options):
+    np.random.seed(options.seed)
+    torch.manual_seed(0)
 
     DIR_RESULTS = '../../../results/'
     DIR_MODLES = '../../../models/'

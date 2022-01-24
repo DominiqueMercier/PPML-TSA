@@ -117,6 +117,8 @@ def eval_pytorch(options, model, val_loader, use_gpu=True):
 
 
 def process(options):
+    np.random.seed(options.seed)
+    torch.manual_seed(0)
 
     DIR_RESULTS = '../../../results/'
 

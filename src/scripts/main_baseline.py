@@ -42,6 +42,8 @@ def process(options):
 
     report_paths = []
     for i in range(options.runs):
+        tf.random.set_seed(i)
+        
         if options.verbose:
             print('Run %d / %d' % (i+1, options.runs))
         ####### Perform baseline model #########
