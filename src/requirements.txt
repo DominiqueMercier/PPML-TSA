@@ -1,10 +1,12 @@
 crypten==0.4.0
-sktime==0.5.3
-numpy==1.19.5
-tensorflow_gpu==2.4.1
 nest_asyncio==1.5.1
+numpy==1.19.5
 scikit_learn==0.24.1
+sktime==0.5.3
+tensorflow==2.4.1
+tensorflow_federated==0.18.0
+tensorflow_gpu==2.4.1
 tensorflow_privacy==0.5.1
-torch==1.7.1
-torchvision==0.8.2
+torch==1.8.1
+torchvision==0.9.1
 tqdm==4.30.0
