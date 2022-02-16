@@ -8,7 +8,7 @@ This repository provides all code necessary to reproduce the results reported in
 
 ## Requirements
 
-An appropriate Python environment can be set up using the `src/requirements.txt` files provided in the repo. The respective datasets can be downloaded from the [UEA & UCR Time Series Classification Repository](https://www.timeseriesclassification.com/dataset.php) and should be placed in the `/data/` folder.
+An appropriate Python environment can be set up using the `src/requirements.txt` and `src/requirements.txt` files provided in the repo. The respective datasets can be downloaded from the [UEA & UCR Time Series Classification Repository](https://www.timeseriesclassification.com/dataset.php) and should be placed in the `/data/` folder.
 
 ## Basic Usage
 

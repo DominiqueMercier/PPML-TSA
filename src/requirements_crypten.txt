@@ -1,0 +1,3 @@
+# install crypten from local copy
+
+pip install -e CrpyTen/
